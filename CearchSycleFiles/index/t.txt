@@ -1,0 +1,144 @@
+tablet	123 1,130 1
+tabloid	101 1
+tado	124 9
+taijul	88 1
+takes	122 1
+talked	83 1
+talking	99 1
+talks	92 1
+tall	126 1
+tamannaah	103 1
+tamil	103 1,120 4
+tamils	120 1
+tamim	88 1
+tanikella	103 1
+task	89 1
+tasks	93 1
+taught	129 1
+taxi	130 1
+tdd	84 1
+teaches	100 1
+teaching	124 1
+team	88 1,101 1,109 1,111 1,85 4,99 3
+teams	85 1
+team�s	85 1
+tech	124 1
+technical	85 1
+technically	130 1
+teenagers	129 1
+tehran	112 1
+telugu	103 1
+temba	88 1
+temperature	124 7
+temperatures	124 4
+tend	123 1
+tendulkar	99 1
+tennis	126 6,83 4,126 1
+termed	95 1
+terming	90 1
+terms	111 2,130 1,87 1
+terrano	86 1
+terribly	82 1
+terror	128 1
+terrorist	128 1
+test	124 1,126 1,88 8,89 1,90 1
+testing	109 1,90 1
+tests	89 3,90 1
+thanu	92 1
+that�s	97 1
+theodor	97 1
+theory	106 1
+thermostat	124 1,130 1
+thermostats	124 1
+they�re	130 1
+thin	114 1
+thinks	122 1
+thought	108 1,110 1,132 1,89 1
+thousands	110 1,124 1
+threat	129 1
+threatened	85 1
+throngs	100 1
+thrown	129 1
+thursday	84 1
+ticket	122 1
+tide	88 1
+tied	94 1
+tiger	128 1
+tigers	120 1
+tight	83 1
+time	128 1,101 1,104 1,106 1,107 1,112 1,82 1,87 1,93 2,98 1
+times	100 1,109 1,129 1
+tips	111 1
+titled	100 1
+titles	83 1
+tmz	101 1
+toast	125 1
+today	109 1,128 1,86 1,90 1
+told	107 1,117 1,125 1,82 3,85 1,87 1,92 1
+tomatoes	83 1
+tonne	114 1
+tonnes	114 2
+top	127 1,132 1,83 1,85 1,88 3,124 1
+topper	127 3
+topping	125 1
+torn	83 1
+toss	88 1
+total	109 1,86 1,93 1
+totally	101 1
+tote	130 2
+touch	106 1,124 1
+touched	85 1
+tough	127 1
+tournaments	126 1
+town	108 1,122 1
+townhouse	132 1
+towns	108 1
+tracked	109 1
+tracking	124 1
+tracy	125 2
+traders	114 1
+trading	114 1
+traditional	83 1
+traffic	113 2
+train	122 1
+transactions	85 1
+transfer	89 1
+transit	113 1
+transmission	86 1
+transport	113 1
+trapping	88 1
+travel	131 1,108 1,117 1,126 1,130 1
+treated	115 1,129 1
+trend	102 1,94 1
+trends	94 1
+trick	124 1,88 1
+tricks	111 1
+trigger	124 1
+triggered	85 1
+trim	86 1
+trip	130 1
+triple	116 1
+trolls	129 1
+troubled	106 1
+troubling	129 1
+truck	130 1
+trust	123 1
+trustworthiness	117 1
+try	41 1,40 1,21 1,169 1,18 1,26 1,29 1,30 1,15 1
+trying	148 1,138 1
+tuesday	101 1,114 2,88 1
+tunes	86 1
+turf	83 1
+turkey	110 1,108 1,108 1
+turn	94 1,124 4
+turned	109 1,128 1,88 1,95 1
+turning	124 2,106 1,97 1
+turns	122 1
+tv	122 1
+tweet	87 1
+tweeted	118 1,87 2
+twitter	101 2
+txt	94 1,125 1,126 1,124 1,127 1,128 1,129 1,130 1,123 1,131 1,122 1,132 1,120 1,119 1,118 1,117 1,116 1,115 1,114 1,82 1,113 1,112 1,111 1,83 1,110 1,109 1,108 1,84 1,85 1,107 1,86 1,106 1,87 1,105 1,88 1,104 1,103 1,102 1,101 1,89 1,100 1,90 1,91 1,99 1,98 1,165 1,14 1,97 1,167 1,92 1,96 1,4 1,3 1,93 1,172 1,95 1,0 1,176 1
+type	130 2
+typically	130 1
+tyra	119 1

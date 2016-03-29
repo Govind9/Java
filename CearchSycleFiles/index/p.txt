@@ -1,0 +1,227 @@
+p	114 1
+pa	92 1
+paa	107 1
+paceman	88 1
+pack	130 1
+package	109 1
+packed	130 1
+padhao	87 1
+padukone	94 2,98 1
+paediatrician	90 1
+page	100 1
+pagerank	70 1,135 1,51 1,71 1,73 1,146 1,145 1,47 1,37 1,57 1,34 1
+pages	119 1
+paid	85 1
+pains	83 1
+paint	101 1
+painter	82 1
+paintings	82 5
+pair	107 1,101 1
+paired	94 1
+pakistan	122 2,128 1
+pakistani	112 1
+palace	106 4
+palm	126 1
+pampliega	110 1
+paparazzi	106 1
+paradise	132 1
+parallel	112 1
+parent	85 1
+parents	122 1,89 1,91 1
+pariksha	89 1
+parineeti	87 3,87 1
+paris	106 1
+part	101 1,103 1,112 1,125 1,89 1,32 1
+parties	85 1,95 1
+parts	103 1
+party	113 1,96 2
+passports	117 6
+patel	105 1
+path	83 1,96 1
+path>	170 1,1 1
+patient	90 1,93 1
+patients	90 3,93 1
+patola	2 1
+pattern	127 1,96 1
+paving	114 1
+pawan	122 1
+pay	130 1,91 1
+paying	93 1
+peasant	96 1
+peeragarhi	90 2
+pendant	122 1
+people	128 3,106 2,112 2,120 1,123 1,82 2,89 4,90 1,91 1,93 1
+peppy	94 1
+percent	109 1
+perfect	104 1
+perform	112 1
+performance	115 2,125 1,129 1
+performances	104 1,88 1
+performed	129 1
+performing	129 1
+period	114 1
+peripheral	90 1,93 1
+persian	126 1
+person	104 1,124 1,85 1
+personal	85 3,130 1
+personnel	106 1
+persons	120 1
+pet	97 3
+petition	128 1
+petitioner	117 1
+phase	99 1
+phone	130 1
+phones	84 1
+photo	111 1,118 2,119 1,120 1
+photography	103 1
+picked	98 1
+picture	130 1
+pictures	111 1,85 2
+piece	132 1,95 1
+pigmentosa	93 1
+pilot	91 2
+pink	94 2
+pinpoint	106 1
+pint	112 1
+place	123 1,128 1
+places	106 1,95 1,97 1
+plan	90 1
+plane	91 2
+planet	118 1
+planning	108 1
+platform	99 1
+play	131 1,92 1
+player	111 2,83 1
+players	99 1,126 1,129 7
+playing	129 1,83 1,94 1
+plays	111 1
+pleaded	82 1
+pleas	117 1
+pleasant	129 1
+pledged	91 1
+plenty	123 1
+plessis	88 2
+pluck	83 1
+plumb	88 1
+pm	108 1
+pmt	89 2
+pmymapper	51 1,135 1,70 1
+pmyreducer	73 1,47 1,146 1
+png	16 1,13 1
+point	113 1
+points	85 1
+police	100 4,127 1,128 1,82 1,89 2
+polish	126 1
+political	95 1,128 1,96 1
+politicians	89 4
+polychromatic	118 1
+poor	113 1,90 1,96 1
+poorly	129 2
+popping	96 1
+popular	94 1
+popularly	89 1
+population	105 2
+pose	129 1
+poses	126 1
+posh	132 1
+positioned	84 1
+positive	129 1,103 1
+possibly	114 2
+post	88 1
+posted	100 1,85 4,90 1
+posting	85 1
+posts	85 1
+potentially	84 1,129 1
+potshots	95 1
+potus	118 1
+power	127 1
+powerful	131 1
+pr	101 1,111 1
+prabhas	103 1
+pradesh	89 2
+praise	100 1
+prasad	103 1
+pray	122 1
+pre	84 1,89 1
+pregnancy	104 1
+pregnant	105 1,102 1
+preliminary	127 1
+prematurely	124 1
+premier	89 1
+premium	95 1
+prequel	97 1
+present	99 1
+presented	103 1
+preservation	105 1
+president	118 1,110 1,128 1,96 2
+press	110 1,120 1,99 1
+prestigious	95 1
+previous	111 1,113 1,114 1,96 1
+previously	85 1,93 1
+prey	123 1
+price	114 1,86 2
+priced	84 1
+prices	114 1,123 2,131 1,84 1
+primary	90 1
+prime	120 1,106 1,132 2,96 1
+principal	103 1
+prioritised	91 1
+priority	109 1
+prison	128 1
+private	132 1,113 2
+prix	116 3
+priyanka	94 3
+problems	113 1
+procedure	128 1
+proceeds	82 1
+process	85 1
+produced	92 1,103 1,88 1
+produces	99 1
+product	124 1
+production	103 2
+products	123 2,124 1,83 1,86 1
+professional	89 1
+professionals	85 1
+professors	82 1
+profile	106 1,85 4,99 1
+profiles	85 1
+profit	109 1
+programme	87 2
+progress	109 1
+progressed	83 1
+promise	124 1
+promised	85 1
+promising	123 1
+promote	87 1
+promoting	129 1
+prompted	100 1
+properly	113 1
+properties	132 1
+property	82 1
+proposed	126 1
+prosecution	82 1
+prosecutors	82 1
+prospective	90 1
+proteas	88 1
+protect	118 1,122 1
+protecting	106 1
+protein	83 1
+protesting	128 1
+protests	95 1
+prototype	90 1
+provide	85 1
+providing	90 1
+province	110 1
+provision	90 1
+pti	107 1
+public	113 1,127 3
+publication	85 1
+publish	85 1
+published	97 1
+punjab	104 1
+purposes	132 1
+push	114 1,88 1
+pushed	120 1
+put	83 1,126 1,127 1,88 1,93 1
+py	18 1
+pyc	168 1,17 1

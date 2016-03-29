@@ -1,0 +1,43 @@
+vaguely	124 1
+valk	177 1
+van	88 2
+variants	86 1
+variety	118 1
+vehicle	116 1,86 2
+vehicles	113 2
+verna	86 1
+versa	124 1
+verses	115 1
+version	119 1
+vi	106 1
+vice	124 1,96 1
+victims	85 1
+victory	122 1,83 1
+video	100 2,102 1,115 2,129 2,93 2
+videos	168 1
+view	118 1
+views	102 1
+vij	122 2,87 5
+village	122 1
+violation	117 1
+violations	117 1
+visa	117 1
+vishal	109 2,109 1
+vision	93 4
+visit	90 1
+visitors	88 4
+visits	106 1
+visual	103 1
+vogue	94 3
+voice	129 1,96 1
+voiced	126 1
+voiceless	112 1
+voices	129 1
+voilet	167 1
+volley	131 1
+volume	114 1
+vtvt	86 1
+vulnerable	114 1
+vvs	99 1
+vyapam	89 2,89 1
+vyavsayik	89 1

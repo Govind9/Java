@@ -1,0 +1,14 @@
+qi	82 1
+quadcopter	106 2
+quadcopters	106 1
+qualified	127 1
+quality	90 1
+quarter	109 2
+queen	106 1,101 1
+questions	104 1,117 1
+quickly	100 1,83 1
+quinton	88 1
+quits	101 1
+quizzes	122 1
+quoted	104 1,109 1
+quotes	104 1

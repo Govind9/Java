@@ -1,0 +1,119 @@
+e	123 1
+earlier	120 1,88 1,90 1,96 1
+early	105 1,85 1
+earned	88 1
+earth	118 2,118 1
+easier	130 1
+easily	124 1
+east	110 1
+easy	88 1
+eat	83 1
+eca	106 1
+ecg	90 1
+economies	131 1
+economy	124 1
+edge	88 1
+edged	88 1
+edition	119 1
+education	89 1
+educational	89 1
+eelam	120 1
+effect	109 1
+effects	103 1
+efforts	106 1,109 1
+eighth	112 1
+el	106 1
+election	96 1
+electric	124 2,100 2
+electronics	124 1,130 1
+elgar	88 3
+elicited	100 1
+elite	127 1
+elsa	110 1
+em	85 1
+email	85 1
+emails	85 1
+embarrassment	87 1
+embellished	94 1
+eminem	115 1
+emotive	120 1
+employee	85 3
+employer	117 1
+encounters	85 1
+enforcement	85 1
+engaged	125 1,85 1
+engagement	96 1
+engine	86 2
+engineers	126 1
+engines	86 2
+english	103 1,127 1,128 1
+ensemble	103 1
+entering	110 1
+enthusiast	115 1
+entire	118 1
+entities	114 1
+entrance	89 4
+environmentalists	113 1
+epic	103 1,118 2,125 1
+episode	111 1
+equipment	130 1
+equipped	118 1
+equities	109 1
+erin	115 2
+erupted	87 1
+escape	117 1
+essa	128 1
+essential	96 1
+essentially	123 1,124 1
+established	85 3,89 2
+estate	132 3,132 1
+estimate	109 1
+estimated	114 1,82 1
+ethnic	120 1
+european	82 1
+evening	88 1,85 1
+evenings	106 1
+event	94 1
+exact	111 1
+exam	127 2
+examination	127 4,89 1
+examined	111 1
+examples	5 1
+exams	89 1
+excellent	124 1
+exchange	114 3,128 1
+exciting	99 1
+exclusive	132 1
+exclusives	84 1
+exe	166 1
+executed	128 1
+executing	128 1
+execution	128 3
+executive	109 1
+exercise	175 1,174 1
+exhibits	82 1
+existing	109 1,124 1
+exodus	109 1
+expand	130 1
+expanding	130 1
+expectant	122 1
+expected	114 1
+expecting	130 1
+expensive	103 1,132 1
+experience	109 1,130 1
+experienced	99 1
+experiences	84 1
+experiment	113 1
+experts	113 1,85 1
+explain	111 1
+explained	85 1,93 1
+explains	83 1
+explanation	111 1
+expressed	87 1
+extent	93 1
+external	117 2
+extraordinary	119 1,124 1
+extremely	94 1
+eye	96 1,93 1,94 1,93 1
+eyes	94 1
+eyewitnesses	98 1

@@ -1,0 +1,51 @@
+kabir	112 2,112 1
+kabul	112 1
+kajol	94 3
+kakodkar	95 1
+kalaipuli	92 1
+kapil	113 1
+kapoor	104 2,107 2,122 1
+karaoke	115 2
+kareena	104 6,107 2,122 1,104 1
+kashmir	122 1
+kathy	119 1
+kawaljeet	109 1
+kayes	88 1
+keen	93 1
+keeravani	103 1
+kejriwal	113 1,90 1,113 1
+kelsey	125 2
+kerala	127 1
+key	82 1
+khan	104 2,107 1,112 3,122 1,112 1
+khattar	87 1
+khobragade	117 4,117 1
+kicks	122 1
+kidnapped	110 3
+kidnapping	110 1
+kids	111 1,97 1
+kill	97 1
+killed	128 1,105 1,110 1,116 1,91 1
+killer	123 1
+killers	120 3
+kind	106 1
+kinds	106 1
+king	101 1,106 2
+kitchen	130 1
+klum	119 1
+km	113 1
+kms	118 1
+knew	125 1
+knowledge	87 1
+kobane	108 1
+kock	88 2
+korean	86 1
+kotak	109 1
+kotala	126 1
+krebs	85 6
+krishnan	103 1
+krysztof	126 1
+kum	107 1
+kumar	120 1,122 1
+kurnool	103 1
+kurukshetra	122 2

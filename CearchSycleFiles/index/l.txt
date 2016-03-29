@@ -1,0 +1,123 @@
+la	130 1
+labeling	83 1
+labourer	127 1
+lack	114 1
+lady	92 1
+ladylove	98 1
+lagaan	96 1
+lakh	86 2,90 1
+lal	87 1
+lambert	101 6
+lamp	130 1
+landed	98 1
+landing	106 1
+landmarks	106 1,128 1
+lane	113 1
+languages	103 1
+lanka	120 1
+laptops	123 1
+large	109 3
+larger	84 1
+largest	82 1
+late	85 1,88 1
+latest	107 1,123 1
+launch	123 1,84 1
+launched	84 1
+law	117 1,113 1,128 1,85 1
+lawn	106 1
+lawyer	120 1
+laxman	99 1
+laxmikant	89 1
+layout	175 1,7 1,1 1
+lcd	124 2
+lead	103 1,107 1,112 1
+leader	89 1
+leaders	89 1
+leading	85 1,92 1
+leads	122 1
+league	86 1
+leak	85 1
+leaked	85 1
+learned	101 1
+leave	124 1,83 1,92 1
+leaving	106 1,88 1
+led	101 1,113 2,120 1,128 1,89 1,93 1
+leds	124 1
+lee�s	97 1
+left	110 1,111 1,114 1,82 1,88 1,95 1
+leg	88 3
+legend	83 1,92 1
+lemon	94 2
+lesson	100 1
+lets	124 1,130 1
+letter	91 1
+level	114 1,124 1,83 2
+levels	86 1,114 1
+lewis	116 1
+liberation	120 1
+library	82 1
+life	128 1,111 1,126 1,85 8,90 1
+lifestyle	132 1
+light	118 1,83 1,89 1
+likes	111 1,83 1
+line	120 1,123 1,124 1
+lined	108 1
+lines	93 1
+linking	124 1
+links	108 1,85 1
+linux	165 1
+lion	105 4,105 1
+lionesses	105 1
+lions	105 1
+liquidity	114 1
+list	85 1,111 2,124 1,132 2
+listen	83 1
+listened	125 1
+lists	106 1
+lit	118 1
+literature	128 1
+litre	86 6
+litton	88 1
+lives	111 1
+living	112 1
+load	130 1
+loading	130 1
+lobby	100 1
+local	130 2
+located	126 1
+locating	106 1
+location	124 2
+locations	106 1,90 1
+locked	91 1
+logging	124 1
+logitech	124 1
+lok	96 1
+london	114 1
+lone	88 1
+long	109 1,100 1,86 1,92 1,96 2,97 1,97 1
+looked	112 1
+lopez	110 1
+lose	129 1,83 1
+losers	129 1
+losing	129 2
+loss	93 1
+losses	114 1
+lost	122 1,97 1,97 1
+lot	94 1,124 1
+lots	94 1
+loud	96 1
+love	125 1,131 1
+lovely	94 1
+lovers	131 1
+lovingly	83 1
+lows	114 1
+lte	84 4
+ltte	120 1
+lubitz	91 1
+luck	125 1
+lufthansa	91 1
+lulls	96 1
+lunch	88 1
+luxpresso	131 1,132 1
+luxury	128 1
+lyrics	115 1,125 1

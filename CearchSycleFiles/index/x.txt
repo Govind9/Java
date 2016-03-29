@@ -1,0 +1,5 @@
+xiao	82 4
+xinhua	82 1
+xt	103 1
+xuv500	86 1
+xyz	14 1

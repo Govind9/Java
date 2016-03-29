@@ -1,0 +1,297 @@
+cairo	100 1
+caitlin	125 3
+caitlin�s	125 1
+california	106 1,125 1
+call	101 1,83 2,85 1
+called	96 1
+calligrapher	82 1
+calls	122 1
+camera	103 1,118 2,93 1
+cameras	103 1
+camp	90 2
+campaign	87 2
+candidates	127 3,89 3
+can�t	111 1,119 1,130 1,97 1
+cap	88 1
+capable	106 1
+capital	113 1,128 1,90 1
+captain	88 1,91 1
+captures	118 1
+capturing	96 1
+car	116 2,125 1,98 1
+carb	83 1
+card	85 1,93 1
+care	90 3
+career	104 1,112 1,83 1
+careers	119 1
+caribbean	132 1
+carlos	106 1
+carmaker	86 1
+carried	96 1
+carrier	128 1
+carries	115 1
+carsten	91 1
+case	101 1,114 1,117 1,124 2,89 1
+cases	83 1,89 2
+cast	103 1,92 1
+casting	112 1
+catch	106 1,88 2
+cater	90 1
+cathedral	116 1
+cats	124 1
+caught	88 1
+causing	106 1
+caveats	124 1
+cbi	89 1
+cbp	8 1,174 1
+cearchsycle	56 1,57 1,50 1,55 1,54 1,51 1,47 1,76 1,52 1,75 1,53 1,74 1,58 1,46 1,59 1,73 1,160 1,72 1,61 1,71 1,171 1,158 1,81 1,70 1,69 1,149 1,80 1,154 1,62 1,67 1,153 1,66 1,152 1,65 1,151 1,49 1
+celebrate	105 1
+celebration	83 1
+celebrities	94 1
+celebrity	87 1
+celebs	94 1,94 1
+cent	109 1,127 2,90 1
+central	89 1,93 2
+centre	108 1,120 2
+century	82 1,105 2
+ceo	109 1,85 1,91 1
+chaired	113 1
+chairman	95 3
+challenged	128 1
+challenges	126 1
+challenging	117 1
+champion	116 2,83 1
+change	122 1,124 1
+changed	114 1,124 1,83 1
+changer	83 1
+changing	114 1
+chapman	125 1
+chapman�s	125 1
+character	112 1
+charcoal	94 1
+charge	82 1
+charged	106 1
+charges	124 1
+charts	114 2
+chaturvedi	122 1
+chauhan�s	95 1
+cheating	101 2
+check	130 2,165 1
+cheeni	107 1
+chepauk	99 1
+chest	83 1
+chhabria	112 1
+chief	109 1,105 1,113 1,120 1,87 2,90 2
+child	87 1,112 2
+children	97 1
+chimes	115 1
+china	82 2,84 1,82 1
+chinese	114 2,82 2
+chittagong	88 2
+choice	86 1
+choogle	20 1
+choose	130 1,124 1
+chopra	87 1,94 3,87 1
+chorus	115 1
+chose	88 1,92 1
+chosen	96 1,131 1
+chowdhury	88 1
+chris	101 1
+cindy	119 1
+cinema	100 3,103 1
+cinematic	103 1
+circulated	101 1
+circumstances	100 2,122 1,128 1
+cite	101 1
+cities	132 2
+citing	101 1
+city	110 3,116 1,122 1
+civil	127 5
+claim	88 1
+claimed	128 1,88 2
+claiming	101 1
+claims	101 2,95 1
+clarified	87 1
+clarify	87 1
+clash	120 1
+class	53 1,162 1,161 1,160 1,22 1,159 1,23 1,24 1,158 1,25 1,157 1,26 1,156 1,27 1,28 1,29 1,155 1,30 1,154 1,153 1,152 1,151 1,150 1,149 1,146 1,145 1,144 1,143 1,142 1,46 1,141 1,47 1,48 1,140 1,49 1,139 1,50 1,138 1,137 1,51 1,52 1,136 1,135 1,134 1,54 1,133 1,55 1,56 1,57 1,58 1,59 1,60 1,61 1,62 1,63 1,64 1,65 1,66 1,67 1,68 1,69 1,70 1,71 1,72 1,73 1,74 1,75 1,76 1,77 1,78 1
+classic	97 1
+clear	100 1,101 1
+clearer	111 1
+clicked	118 1
+client	109 1
+clients	109 4
+climate	118 1,94 1
+clinic	90 7
+clinics	90 6
+clip	100 1
+close	111 1,124 1
+closed	114 1
+closely	109 1
+clothes	94 1
+clueless	106 1
+clutched	108 1
+clutter	130 2
+cm	90 1
+coach	99 1
+cockpit	91 1
+codes	124 1
+coffins	108 1
+col	100 1
+cold	87 1
+collaboration	112 1
+collapsing	83 1
+colleagues	116 1,96 1
+collusion	89 1
+colonel	100 1
+color	167 1
+colour	94 1
+coloured	94 1
+colours	94 2
+coma	116 1
+combination	94 1
+comfort	124 1
+coming	114 1,104 1,83 1
+comments	129 1,87 1
+commission	127 2
+committed	100 1
+committee	89 2,99 1
+communications	85 1
+commuted	128 1
+commuters	113 2
+compact	86 1
+companies	124 1,130 1
+company	124 2,106 1,109 2,130 3,85 4
+company�s	85 1
+compare	130 1
+compelling	100 1
+competitors	129 1
+complained	113 1
+complaints	89 1
+complete	109 1
+completed	114 1,128 1
+completely	83 2,94 1
+complex	126 2
+compliance	85 1
+composed	103 1
+comprising	99 1
+computer	93 1
+computerised	90 1
+conceived	126 1
+concerned	106 1
+condemnation	100 1
+condition	93 1
+conditioner	124 1
+conditioners	124 1
+conditioning	124 3
+conditions	111 1,87 1
+conducted	127 2
+conducting	89 1
+conference	99 1,108 1
+confidence	109 1
+confidencial	106 1
+confirmed	124 1
+confirming	85 1
+confrontation	120 1
+confused	111 1
+confusion	106 1
+congress	120 1,113 1,95 1,96 3
+connection	89 1
+connectivity	84 1
+connects	124 1
+consecutive	83 1
+consequences	117 1
+considerable	131 1,113 1
+considered	124 1,92 1
+conspiracy	128 1
+constituencies	90 2
+consul	117 1
+consumer	124 1
+contacted	92 1,111 2
+contended	117 1
+content	104 1
+contentment	104 1
+contest	99 2
+continue	85 1
+continues	96 1,111 1,112 1
+continuing	85 1
+contract	109 1,114 1
+contrast	94 1
+contrasting	94 1
+contributing	101 1
+control	124 9,112 1,95 1
+controlled	106 1
+controller	106 2,124 4
+controls	110 1,124 1
+control�	95 1
+controversy	87 2
+convenient	131 1
+conversations	85 1
+converts	93 1
+convicted	120 1,128 3
+cooler	124 1
+cop	100 1
+copies	82 1
+copters	106 1
+copyright	85 1
+coral	126 1
+corner	109 1
+corridor	113 2
+corruption	82 1,96 1
+cost	130 3,85 3,90 3
+costs	130 1
+cougarlife	85 2
+counted	124 1
+countermeasure	106 1
+country	84 1,101 2,106 1,127 1,82 1,89 1,101 1
+county	130 1
+couple	124 1
+court	89 1,117 4,120 1,126 6,128 3,82 4,126 1
+courtesy	120 1,132 1
+courts	126 1
+courtyard	108 1
+covered	125 1,126 1
+covers	123 1
+coveteur	119 2
+cpp	173 1,9 1
+cracks	127 1
+cranking	124 1
+crash	116 1
+crashed	106 1
+crashing	116 1,91 1
+crawford	119 1
+crdi	86 2
+create	107 1,126 1,94 1
+credentials	85 1
+credit	85 1,94 3
+creta	86 5,86 1
+crew	92 1
+cricket	88 1,122 1,99 1
+cricketer	99 1
+crime	100 1
+crisply	124 1
+criticised	113 1
+criticism	95 1
+critics	103 1
+crop	104 1
+crore	90 2
+cross	113 1,86 1
+crowd	125 1,100 1
+crucial	132 1
+cubs	105 2,105 1
+culprit	83 1,85 1
+cultural	108 1
+cup	83 1
+curator	82 1,82 1
+cure	90 1
+current	101 1,99 1
+curry	102 2
+curved	126 1
+curvier	119 1
+customer	130 1,85 2
+customers	109 1,91 1
+customers�	85 1
+cyber	85 1
+cybersecurity	85 1
+cyber�terrorism	85 1
+cyril	103 1

@@ -1,0 +1,170 @@
+d	106 1
+da	82 2
+daily	110 1,114 1,127 1
+dairy	83 1
+dancing	122 1
+dangling	74 1,143 1,140 1,59 1,142 1,69 1,36 1,58 1,72 1,33 1,67 1
+daniel	115 1
+danielle	115 1
+daqian	82 1
+dargah	122 1
+das	88 2
+dash	94 1
+data	85 2
+database	124 1
+date	103 1,128 1
+dated	104 1
+dates	130 1
+dating	104 1,85 1
+daughter	102 2
+daughters	117 4
+daunting	88 1
+davis	83 1
+dawood	128 1
+day	119 1,104 1,114 2,82 1,83 1,87 1,88 5,93 2,96 4
+dayan	122 1
+days	106 1,111 1
+de	88 2
+dead	110 1
+deadly	128 1
+deal	109 1
+deals	109 2,114 1
+dean	88 1
+death	128 2
+debilitating	129 1
+debut	88 1
+decades	128 1
+december	117 1
+decide	114 1
+decided	111 2,113 1,128 1,85 1
+decision	83 1,104 1,113 1,87 1,88 1
+decisive	88 1
+declare	109 1
+declared	88 1
+declining	85 1
+decoded	83 1
+deep	88 1,118 1
+deepika	94 3,98 1
+defence	82 1
+defensive	88 1
+degeneration	93 2
+degrees	128 1
+delete	85 2
+delete�	85 2
+delhi	120 2,104 1,112 1,113 6,117 2,122 3,127 1,128 1,86 1,90 7,90 1
+deliberately	123 1,91 1
+delighted	93 1
+deliver	84 1
+demanded	85 1
+den	109 1
+denominated	109 1
+deny	101 1,88 1
+department	87 3
+depend	10 1
+deputy	117 1
+descent	91 1
+describes	85 1
+deserve	120 1
+design	124 1
+designed	85 1,124 1,130 1,94 1
+designer	103 1
+designers	94 1
+desktop	5 1
+destroyed	110 1
+details	82 1,85 2
+detained	128 1
+detecting	83 1
+detection1	168 1
+devastated	123 1
+developed	85 1
+developers	126 1
+developing	106 1
+devices	124 1,130 1,84 1
+devineni	103 1
+devout	122 1
+devyani	117 2,117 1
+dhaka	88 1
+dhoni	92 1
+didn�t	125 1
+die	115 1,116 1
+died	120 1,116 1
+diesel	86 6
+diet	83 5,83 1
+dieting	83 1
+difference	112 1
+difficulties	83 1
+difficulty	117 1
+digital	85 1,103 1,109 2
+dikshit	113 1
+dilute	117 1
+directed	103 1,92 1
+direction	93 1
+director	107 1,112 2
+directors	95 1
+disappeared	93 1
+disbelief	123 1
+discern	82 1
+discover	83 1
+discovered	83 1,97 1
+discreet	85 1
+discuss	85 1
+discussed	87 1
+discussion	104 1
+dismal	88 1
+dismiss	123 1,88 2
+dismissed	106 1
+dispensary	90 1
+display	124 1,126 1
+dispute	100 1
+disregard	129 1
+disturbed	96 1
+disturbing	106 1
+divergent	100 1
+diving	128 1
+divorce	101 4
+djokovic	83 5,83 1
+dk	117 3
+dmca	85 1
+dmymapper	58 1,142 1,67 1
+dmyreducer	140 1,74 1,59 1
+doctors	90 1
+documents	85 1
+dollar	109 1
+domain	127 1
+dominant	129 1
+doorstep	85 1
+double	114 1,124 1,126 1
+doubts	117 1
+dozen	105 1
+dozens	124 1
+dpuf	95 1
+dr	109 2,97 3,97 1
+dragging	100 1
+drake	115 1
+dravid	99 2,99 1
+drawn	96 1
+dream	88 1
+dressed	94 2
+drifting	131 1
+drive	112 1,86 1
+driver	116 2
+drone	106 4,106 1
+drones	106 2
+drought	105 1
+dry	93 1
+dscovr	118 2
+du	88 2
+dub	102 1
+dubai	126 4
+dubai�s	126 1
+dubbed	103 1
+dubious	117 1
+due	83 1,105 1,109 1,129 1,85 1
+duesseldorf	91 1
+dumb	124 1
+duminy	88 2
+dump	106 1
+dumped	114 1
+duster	86 1
+dutt	128 1
+duty	86 1

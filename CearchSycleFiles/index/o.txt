@@ -1,0 +1,59 @@
+o	12 1
+obama	118 1
+oblivious	131 1
+observatory	118 1
+obtained	117 1,127 1
+obtaining	117 1
+occasions	106 1
+occurred	114 1
+october	116 1
+odis	88 1
+of	102 1
+of8xjfd1	95 1
+offer	84 1
+offered	85 1
+offers	130 1
+office	112 1,103 1,106 1,107 1
+officer	117 1,127 1,100 3
+offices	128 1
+official	118 1
+officially	102 2
+officials	105 3,89 3
+offshore	126 1
+ohio	129 1
+omega	0 1
+onboard	102 1
+ongoing	85 1
+online	129 1,100 1,106 1,124 2,84 1,85 4,129 1
+open	111 1
+opened	113 2,114 1
+opener	19 1
+openers	88 2
+opening	103 1,88 1
+operates	85 1
+operation	93 1
+operator	106 2
+opm	85 1
+opponent	88 1
+opposition	95 1
+option	85 2
+options	86 1
+or	95 1
+orange	130 1,167 1
+order	117 1,84 1,88 1,89 1
+orders	114 1
+organ	95 1
+organiser	95 1
+organized	89 2
+original	112 1
+originally	87 1
+ounce	114 3
+outdoor	124 1
+outfit	94 1
+outlet	106 1
+outright	106 1
+outsourcer	109 1
+ovation	125 1
+overcome	126 1
+overhauling	83 1
+overs	88 1

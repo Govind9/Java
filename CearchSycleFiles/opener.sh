@@ -1,0 +1,1 @@
+xdg-open /home/bane/"mats valk.MP4"

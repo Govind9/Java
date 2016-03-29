@@ -1,0 +1,47 @@
+u	109 1
+uber	130 1
+ubuntu	165 1
+udta	104 1
+uk	93 1
+ultraviolet	118 1
+umpire	88 1
+unable	106 1,93 1
+unannounced	106 1
+unauthorized	85 1
+unaware	83 1
+unbeaten	88 1
+unbelievable	123 1
+unclear	100 1,128 1
+uncovered	89 1
+underdog	96 1
+underprivileged	96 1
+undersea	126 1
+understand	106 1
+underwater	126 5,126 1
+undeserving	89 1
+undying	125 1
+unfaithful	101 1
+unidentified	106 1
+union	101 1,120 1,127 1
+unit	90 1,124 2,92 1
+units	124 3
+universal	124 1
+university	108 1,129 2,82 3
+unix	165 1
+unobtrusive	124 1
+unparalleled	83 1
+unsavoury	129 1
+untitled	107 1,92 1
+unwelcome	106 1
+upcoming	107 1
+updated	120 1
+updates	85 1
+updo	94 1
+uprooted	88 1
+urge	123 1
+usa	117 1
+user	111 1
+users	85 1
+users�	85 3
+user�s	85 1
+utility	124 1

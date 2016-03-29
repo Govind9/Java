@@ -1,0 +1,88 @@
+waffle	124 1
+wage	127 1
+wait	119 1,86 1,97 1
+waited	98 1
+wales	129 1
+walk	124 1
+wall	124 1
+wanted	101 1,112 2,83 1
+war	83 1
+warm	124 1
+warned	85 1
+warning	124 1
+washington	118 1
+waste	123 1
+watched	100 1,109 1,119 1
+watching	122 1
+watchman	97 1
+waters	126 1,105 1
+wave	114 1
+wavelengths	118 1
+ways	113 1,118 1
+weaker	90 1
+weakest	123 1,114 1
+weapons	128 1
+wearing	94 1
+web	124 2,85 1
+website	85 1
+websites	85 1
+wedding	125 2
+wee	98 1
+weed	93 1
+weeds	93 1
+week	90 1,92 1
+weekend	102 1
+weeks	104 1,105 1
+welcomed	113 1
+wept	108 1
+west	90 1
+western	105 1,110 1
+we�ll	132 1
+what�s	102 1
+wheat	83 2
+wheeler	131 1
+whipping	102 1
+white	106 1,93 1,97 1
+whitney	125 1
+wi	124 1
+wicket	99 1,88 3
+wicketkeeper	88 1
+wickets	88 2,99 3
+widely	109 1
+widespread	105 1,109 1
+widow	97 1
+wife	100 1,101 1,120 1
+wildlife	105 1
+wimbledon	83 3
+win	109 3,83 3
+window	124 1
+windows	165 1,123 1
+wink	124 1
+winners	129 1
+winning	129 1
+wins	109 2,83 2
+witnessed	131 1
+woman	129 1,119 1
+women	129 4
+won	88 1,112 1
+wonderful	104 3
+wooed	126 1
+wore	94 1
+work	131 1,101 2,109 2,111 1,113 1,124 1,130 1,82 2,85 2,96 1,97 2
+worked	107 1,112 1,92 1
+working	110 2,99 1
+works	130 1,82 3
+workshop	112 1
+world	82 1,116 3,132 3,83 2,85 1
+worldwide	103 1
+world�s	85 2
+worn	93 1
+worshippers	122 1
+worst	128 1
+worth	114 2,82 1
+wrestle	122 1
+write	129 2
+written	103 1,120 1
+wrong	96 1,111 1
+wrote	101 1,109 1,111 2
+www	94 3

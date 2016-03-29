@@ -1,0 +1,143 @@
+i701	123 1
+ians	92 1
+ias	127 4,127 1
+iball	123 1,123 2
+ibrahim	128 2
+ico	15 1
+idea	124 1,125 1,130 1
+ideal	99 1
+identified	108 1
+identify	90 1
+idols	119 1
+ifs	117 1,127 1
+ignorance	87 1
+ii	93 1
+iim	95 1
+iims	95 1
+iit	95 1,95 1
+iits	95 2
+illegal	117 1
+illiquid	114 1
+illusion	126 1
+illustrated	119 1
+illustrations	97 1
+image	127 1,132 1,94 3,118 1
+images	118 1,132 1,93 1
+imaging	118 1
+immediately	117 1
+impact	85 4
+impaired	122 1
+impersonate	89 1
+implant	93 4,93 1
+implanted	93 1
+implementation	109 1
+importance	132 1,99 1
+important	106 1
+impossible	126 1
+impressed	125 1,115 1
+impressions	84 1
+impressive	84 1,88 1
+improve	93 1
+imrul	88 1
+imymapper	53 1,61 1,134 1,46 1,66 1,149 1,152 1,137 1
+imyreducer	160 1,65 1,136 1,76 1,50 1,49 1,141 1,158 1
+inaugurated	90 1
+inauguration	90 1
+incident	106 1,120 1,85 2
+incidents	106 1
+include	94 1
+included	109 1,82 1,89 1
+including	85 1,128 1,82 1,88 1,94 1
+incorporated	89 1
+incorporating	125 1
+increase	129 1,90 1
+increased	129 1
+increasing	90 1,83 1
+increasingly	106 1,82 1
+incursions	106 1
+index1	66 1,158 1,154 1,149 1,144 1,46 1,49 1,136 1,134 1,55 1,56 1,65 1
+index2	54 1,153 1,76 1,160 1,53 1,61 1,152 1,137 1,139 1,50 1,75 1,141 1
+indexing1	35 1,25 1,28 1,39 1,22 1
+india	95 1,117 1,109 1,114 1,122 3,128 4,84 2,89 1,95 4,99 3
+indian	94 1,103 3,105 2,117 4,122 1,127 3,131 1,86 1,89 1,131 1,105 1
+indianexpress	95 1
+india�pakistan	122 1
+indoor	124 1
+indore	89 1
+induced	88 1
+infidelity	101 2
+information	85 7,87 2
+informed	128 1,87 1
+informing	117 1
+infosys	109 4
+infrared	118 1,124 1
+infrastructure	90 1
+infringed	111 1
+infuriate	123 1
+iniesta	111 6
+initially	106 1,88 1
+initiated	109 1
+injuries	116 2,120 1
+innings	88 1
+innocence	128 1
+innovate	109 1
+innovation	109 1
+inshare	127 1
+insists	122 1
+instagram	111 7,111 1
+installation	124 1
+installer	166 1
+institute	95 1
+institutes	89 1,95 1
+institutes�	95 1
+integrity	117 2
+interact	129 1
+interesting	111 1
+interface	124 2
+intermediate	82 2
+internal	85 2
+international	83 1,98 1,99 1
+internationals	88 1
+internet	102 1,124 1
+interrogation	89 1
+interrogations	89 1
+interrupted	96 1
+intersections	113 1
+intervened	100 1
+interventions	96 1
+interview	100 1,104 1,119 1,127 1
+interviews	104 1
+intolerant	83 1
+introduced	84 1
+introduction	113 1
+invest	132 1
+investigate	85 1,89 1
+investigating	89 1
+investigation	85 1,89 1
+investigative	110 1
+investigators	91 1
+investment	132 1
+investors	114 1
+involved	101 1,128 1,89 2
+involvement	89 1
+involves	85 1
+involving	89 1
+ios	124 1
+ips	127 1
+iqbal	88 1
+ir	124 2
+ireland	119 1
+irregularities	89 1
+islam	88 1
+islamic	108 1,110 1
+islands	126 1,132 1
+issue	87 1,120 1,82 1
+issued	89 1
+issues	83 1,95 1
+issuing	117 2
+ist	120 1
+item	130 1
+items	130 2
+it�s	97 2,130 3
+i�m	130 2
+i�ve	119 1

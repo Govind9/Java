@@ -1,0 +1,45 @@
+nadu	120 3
+nae	102 5,102 1,102 1
+naed	102 1
+naeing	102 4
+naik	95 1
+named	101 1,87 1
+names	122 1,85 1
+narayanan	92 1
+narendra	96 1
+nasa	118 1
+nashwa	100 1
+nassar	103 1
+national	90 1,128 1
+natural	126 1
+nawazuddin	112 1
+nba	102 1
+ndtv	127 1,112 1
+neat	96 1
+negative	129 1
+neon	94 6,94 1
+nerves	106 1
+nest	124 2
+net	109 1,94 1
+network	124 1,85 1
+networks	85 1
+news	101 1,106 1,108 1,131 1,82 1
+newspaper	100 1
+nice	116 1,99 1
+night	106 1
+nissan	86 1
+nizamuddin	122 1
+noel	85 1
+north	110 1
+northern	110 1
+notably	84 1
+noted	95 1
+notice	111 1,117 2,123 1
+notredame	176 1
+novak	83 1,83 3
+npp	166 1
+nuclear	95 1,106 1
+nude	85 1
+number	106 3,116 1,118 1,90 2
+numbers	105 1,93 1
+nyc	132 1

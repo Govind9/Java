@@ -1,0 +1,37 @@
+j7	84 2
+jab	104 1
+jabs	100 1
+jackson	125 1
+jagdish	89 1
+jail	128 3
+jain	90 2
+jaipur	96 1
+jamshed	123 1
+january	106 1
+japan	106 1
+japanese	114 1,116 1
+jar	20 1
+java	41 1,33 1,34 1,35 1,36 1,37 1,38 1,39 1,40 1,148 1,147 1,42 1,43 1,169 1,81 1,171 1,80 1,79 1,21 1,163 1
+jayalalithaa	120 1,120 3
+jewellery	94 1
+joan	126 1
+job	124 1
+jobs	89 1
+john	125 1
+joined	116 1,85 1
+joke	123 1
+jose	110 1
+journalist	109 1,112 1
+journalists	110 3
+jp	88 2
+juan	106 1
+jubair	88 3
+judge	123 1,128 1
+judging	119 1
+jugal	112 1
+jules	116 1
+july	128 1,103 2,110 1,118 1,120 1,123 1,84 2,87 1,88 1,89 1,97 1
+jumeirah	126 1
+jumpy	106 1
+june	109 1,89 1
+junk	123 1

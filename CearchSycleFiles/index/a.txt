@@ -1,0 +1,202 @@
+aadmi	90 2,113 1
+aam	113 1,90 2
+aap	113 1
+abc	125 1,0 1,4 1
+abide	123 1
+ability	109 1
+aboard	91 1
+abode	105 1
+absolute	123 1
+abundance	126 1
+ac	124 9
+academy	82 1
+access	130 1,85 2
+accessible	90 1
+accessories	94 1
+accessory	124 1
+account	111 3,124 1,85 3
+accountant	128 1
+accused	128 1
+acronym	89 1
+acs	124 1
+act	104 1,112 1,117 1,85 2
+acting	104 1
+actions	96 1
+active	114 1
+activists	108 1
+activities	95 2
+activity	85 1
+actor	104 1,107 1,115 1,128 1,98 1
+actress	87 3,104 1,107 1,92 1,98 1
+acts	117 2
+actual	129 1
+add	124 1,126 1,88 1
+added	90 1,109 1,85 2,87 1
+addition	85 1
+address	101 1,130 1
+addresses	85 1
+adivi	103 1
+administrative	127 1
+admission	89 1
+admissions	89 1
+admitted	82 1
+adoption	109 1
+advanced	123 1,124 2
+advantage	114 1
+advertisements	123 1
+advising	122 1
+advisory	99 1
+aerobics	115 1
+affair	101 1,85 1,101 1
+affairs	117 2
+affects	93 1
+affidavit	117 2
+afford	111 1
+affordable	84 1
+aficionados	131 1
+africa	88 3
+african	88 1
+afridi	122 1
+afternoon	108 1,85 1
+age	93 2,83 1
+agency	82 1,89 1
+aggression	129 1
+aggressive	96 1
+agreeing	130 1
+ahmed	88 1
+ahmedabad	95 1
+aidyanathan	120 1
+aiims	90 1
+ailments	90 1
+aimed	90 1,96 1
+air	128 1,110 1,124 5,126 1
+airbus	91 1
+airline	91 1
+airport	120 1,98 2
+al	100 2,126 2,88 1
+alarm	106 1
+aleppo	110 4
+alexa	103 1
+ali	104 1
+allegations	101 1,82 1,96 1
+alleged	95 1,85 1
+allergy	83 1
+allocated	90 1
+alphabet	115 1
+alps	91 1
+amara	108 1
+amazing	119 1
+ambala	87 1
+ambassador	87 5
+ambulance	90 1
+amd	93 1
+amitabh	107 1,107 1
+amla	88 3
+amount	106 1
+analogy	96 1
+analyse	114 1
+analysed	129 1
+analysts	109 1,114 1
+analyzed	118 1
+anandiben	105 1
+andreas	91 1
+android	124 1
+andr�s	111 2
+angel	112 1,110 1
+anger	113 1
+anil	87 1,95 1
+announced	101 1,109 1,87 1,90 1
+announcement	123 1
+annoyance	106 1,124 1
+annually	127 1
+anonymous	129 1
+anti	95 3,95 1
+antiques	82 1
+antonio	110 1
+anushka	103 1
+anushree	94 1
+anymore	93 1
+apologised	82 1
+apologises	111 1
+apologize	111 1
+app	124 4,130 4
+apparently	85 1,106 1
+appeals	128 1
+appearance	107 3
+appearances	96 1
+appeared	111 1
+appearing	96 1
+appliances	124 1,130 1
+application	109 1
+appointed	87 1,99 1
+appointment	87 1,95 1
+apprehensions	126 1
+approach	124 1,96 1
+approached	92 1
+approval	102 1
+apps	130 1
+april	109 1
+apte	92 1,92 1
+aquarium	126 1
+arab	126 2
+architect	126 2
+architects	128 1
+arctic	14 1
+ardent	107 1
+area	110 1,130 1
+areas	110 1
+arena	126 2,83 1
+argument	96 1
+argus	93 1
+arjun	107 3
+arm	88 1
+arms	103 1
+arpita	94 1
+arranged	90 1
+arrest	128 1,89 1
+arrested	127 1,106 1,89 3
+arrests	89 1
+arri	103 1
+arrival	98 1
+arrive	120 1
+art	132 1,82 3
+article	95 3
+artist	102 1
+arts	82 1
+arvind	113 1,90 1,113 1
+ashley	119 1,119 1,85 7
+asiatic	105 2
+asked	99 1,90 1
+aspects	99 1
+assassination	120 1
+assault	96 1
+assets	132 1
+association	110 1
+associations	108 1
+assumes	122 1
+at	108 1
+atlanta	130 1
+atoll	126 1
+atop	126 1
+attached	106 1
+attack	128 2,85 2,96 1
+attacks	128 2
+attempt	125 1,129 1
+attempts	106 1
+attention	94 1
+attracted	94 1
+auditioned	112 1
+audrey	97 1
+august	92 2,88 1,89 1
+auliya	122 1
+austin	130 1
+authorities	106 1,108 1
+automatic	124 1,86 2
+automatically	124 2
+autonomous	89 1,106 1
+avari	123 1
+average	114 1,90 1
+avid	85 8
+aware	110 1
+ayrton	116 1
+azad	122 1

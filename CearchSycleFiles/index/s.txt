@@ -1,0 +1,348 @@
+s	88 1,101 7,103 1,104 2,105 1,106 3,108 2,109 3,111 1,112 3,113 2,114 3,115 1,116 2,117 2,120 3,122 2,123 1,124 1,127 1,128 5,129 1,82 3,83 2,85 1,86 2,89 2,92 2,96 2,99 1
+sabha	96 1
+sabi	100 1
+sabu	103 1
+sachin	99 1
+safdarjung	90 1
+sagar	89 1
+saif	104 1
+salary	85 1
+salman	104 1,112 1,122 1
+saluja	109 1
+salutation	124 1
+samsung	84 4,84 1
+san	116 1,130 2
+sanctuary	105 2
+sandals	94 1
+sangria	101 1
+sanjay	128 1
+santosh	92 1
+saree	94 8,94 1
+sastre	110 1
+satellite	118 1
+sathyaraj	103 1
+satyendra	90 1
+scale	89 1
+scam	89 7,89 1
+scared	124 1
+scene	94 1,110 1
+schedule	124 2
+scheduled	103 1
+schooled	125 1
+science	128 1
+scientist	95 1
+scoop	106 1
+score	106 1,103 1,88 1
+scorecard	88 1
+scorpio	86 1
+scrap	113 2
+screams	115 1
+screen	93 1
+screenshot	85 1,16 1
+sea	126 1,128 1,14 1
+searchcycle	135 1,140 1,137 1,141 1,136 1,142 1,133 1,143 1,134 1,144 1,43 1,145 1,146 1,38 1,147 1,139 1
+searching	106 1
+season	94 1
+secret	85 1
+sections	90 1
+sector	90 1
+secured	85 1
+security	106 3,85 7
+seek	87 1
+seemingly	101 1
+segment	84 1
+segregation	129 1
+seized	100 1
+select	127 1
+selected	112 1,85 1
+selecting	127 1
+sell	130 2
+sellers	114 2
+selling	114 1
+sells	130 2
+sending	114 1
+sends	130 3
+senior	89 1
+senna	116 1
+sensitive	124 1
+sensitivity	83 1
+sentence	128 3
+sentenced	82 1
+separate	128 1
+separated	122 1
+separatist	120 1
+serbia	83 1
+serbian	83 1
+serial	128 1
+series	118 1,84 1
+seriousness	117 1
+serve	83 1
+servers	85 1
+service	116 1,117 1,127 4,130 2,85 4
+services	109 3,127 5,130 1,85 1,90 1
+serving	128 1
+sesh	103 1
+session	88 3
+set	124 3,84 1,90 3,97 1
+setting	124 3
+settings	124 3
+settle	106 1
+seuss	97 4,97 1
+sexist	129 1
+sexual	85 1
+sh	19 1
+shady	115 1
+shahid	104 5,122 1,104 1
+shahida	122 3
+shake	122 1
+shakib	88 1
+shamitabh	107 1
+shanghai	114 3
+shaped	124 1
+share	109 1,111 1
+shares	109 1
+sharing	111 1
+sharma	89 1
+sharp	94 1
+shattering	112 1
+sheer	89 1
+sheets	127 1
+sheila	113 1
+shelton	101 7
+shetty	103 1
+she�ll	119 1
+ship	84 1
+shirt	100 1
+shobu	103 1
+shocking	101 1
+shocks	100 1
+shoes	119 1
+shook	128 1
+shoot	119 1,92 1
+shooters	106 1
+shooting	107 1
+shop	93 1
+shopping	93 1
+shoreline	126 1
+short	114 1,123 1
+shortly	125 1,110 1,114 1,128 1
+shorts	96 1
+shot	103 1
+shots	106 1
+shouted	108 1
+shouting	100 1
+shouts	100 1
+show	112 1,115 1,117 1,120 1
+showing	127 1
+shown	106 1
+showroom	86 1
+shows	124 1
+shrank	105 1
+shri	122 1
+shut	124 1,85 1
+shutting	111 1
+shy	83 1
+sibling	84 1
+siddiqui	112 1
+side	88 1,118 1,87 1
+sight	124 1,93 2
+sign	130 1
+signal	106 1
+sikka	109 6,109 1
+silento	102 1
+silver	94 1
+similar	106 1,94 1
+simple	94 2
+simply	124 1,96 1
+simultaneously	103 1
+singer	101 3,101 1
+singh	98 1,98 1,120 1
+singing	125 1
+single	83 1
+sinha	84 1
+sister	125 1,128 1
+sisters	125 3
+sit	123 1
+site	101 2,111 1,130 1,85 2
+sites	85 1
+site�s	85 1
+situation	110 1,111 1
+size	119 2
+sized	112 1
+skills	115 1
+slam	126 1
+slams	83 1
+slapping	100 1
+slaps	100 1
+slaying	115 1
+sleeping	124 1
+sleeves	94 1
+slide	114 1,123 2,123 1
+slim	115 1
+slippage	114 1
+slogans	108 1
+slowed	113 1
+small	130 1,106 1
+smaller	84 1
+smart	124 3
+smartphone	124 1
+smartphones	84 1
+smooth	84 1
+snap	130 1
+sneaking	101 1
+snippets	85 1
+soared	105 1
+soccer	111 2
+social	100 1,105 1,129 1,87 1
+socialist	108 1
+socially	129 1
+sofia	106 1
+software	124 2
+sold	114 1,82 2
+solicitor	120 1
+solid	88 1,94 1
+solution	113 1
+son	127 1
+song	102 1,115 1
+songs	125 2
+sonia	120 1
+sophisticated	124 1
+soruc	108 1
+sounded	124 1
+soundtrack	103 1
+sourav	99 1
+source	92 1
+sources	101 2,128 1,98 1
+south	88 4,113 1,129 1,86 1
+southern	82 1,92 1
+space	118 2,124 1,96 1
+spain	106 2,111 1
+spanish	106 1,110 5,110 1
+spare	123 1
+spasms	83 1
+special	107 2,89 1
+specific	85 2
+specifications	84 1
+spectators	126 1
+speculating	114 1
+speech	122 2,125 1
+speed	86 3
+speeds	124 1
+spell	88 1
+spinner	88 4
+spirit	128 1
+split	122 1,101 3
+spohr	91 2
+spoke	112 1
+spoken	91 1
+sporting	130 1
+sports	126 1,119 1
+spot	114 1
+spots	122 1
+spotted	105 2,82 1
+sprang	98 1
+spread	126 1
+sputniknews	106 1
+sri	120 1
+srinivas	103 1
+stadium	88 1
+staff	109 1
+staged	88 1
+stages	127 1
+stamina	96 1
+stand	88 1
+standard	124 1
+standing	125 1
+star	102 1,111 1,112 3,115 1,83 1
+stars	104 2
+start	88 2,107 1
+started	83 1,82 1
+starting	109 2
+starts	122 1
+startup	130 1
+state	86 1,105 1,108 1,110 1,87 2,89 7
+statement	109 1,85 3,94 1
+statements	129 2
+status	129 4
+stayed	117 1
+stealing	82 1
+step	85 1,98 1
+steph	102 1
+stern	126 1
+stf	89 1
+sthash	95 1
+stiaan	88 1
+stock	128 1
+stole	82 1
+stolen	82 2
+stomach	83 1
+stood	112 1,114 1
+store	130 2
+storeroom	82 3
+story	111 1,125 1
+strange	122 1
+strategy	109 2,114 1
+streets	132 2
+strict	127 1
+strikes	110 1
+strong	100 1,103 1,88 1
+struck	88 1
+struggled	109 1
+students	108 1,82 1
+study	129 1
+stuff	130 1
+stump	88 1
+stumps	88 1
+stunning	118 1,119 1,126 1
+stupid	124 1
+subject	83 1,104 1,87 1
+submission	117 1
+submissive	129 1
+submit	127 1
+subsequent	89 1
+subsequently	101 1
+substituted	82 1
+subtle	94 2
+success	83 1,127 1,88 2,99 1,31 1
+successful	124 1,127 1
+successfully	88 1
+sudden	101 1,114 1
+sudeep	103 1
+sufficiently	93 1
+suggest	129 2,98 1
+suggesting	95 1
+suicide	120 1
+sultanpur	122 1
+summer	102 2,124 1,97 1,102 1
+summers	94 1
+sun	118 1
+sunday	85 2
+suparna	120 1
+super	131 2
+superbikes	131 1
+superfast	131 1
+superstar	92 1
+supervisor	103 1
+support	114 2,84 1
+supporting	103 1
+supreme	128 2,120 1,89 1
+surely	94 2
+surfaced	115 1,89 1
+surfboard	130 1
+surged	109 1
+surgery	93 1
+surprise	98 1
+surprised	106 1,82 1
+surprisingly	94 1
+suspect	104 1
+suspected	101 2,108 1,91 1
+sustain	96 1
+sustained	116 2,120 1
+suv	86 1
+suzuki	86 1
+swimsuit	119 1
+swirled	101 1
+sympathy	120 1
+syria	108 1,110 3
+syrian	110 1
+system	106 2,113 1,124 1,85 1

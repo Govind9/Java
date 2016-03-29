@@ -1,0 +1,100 @@
+habits	83 1
+hack	85 1
+hackers	85 4,85 1
+hacking	85 1
+hails	87 1
+hair	94 2
+hairstyle	94 1
+hallerman	125 1
+halo	129 3
+halt	106 1
+haltern	91 1
+hamilton	116 1
+hand	106 1
+handing	111 1,88 1
+handle	118 1
+hands	114 2
+hang	128 1
+hanged	128 1
+hansraj	112 1
+hanuman	122 1
+happened	106 1,92 1
+happy	112 1
+harass	122 1,129 1
+harasser	100 1
+harassment	100 1
+hard	115 1,101 1,106 1,112 1,120 1,85 1
+harm	122 1
+harmony	124 1
+harper	97 1
+harshaali	112 3,122 1
+haryana	87 1
+hasan	88 1
+hashim	88 1
+hastened	114 1
+hat	88 1
+haveli	122 1
+hazrat	122 1
+head	116 1,122 1
+headache	85 1
+headed	120 1
+heads	94 1
+health	87 2,90 5
+heard	110 1,111 1
+hearing	117 1,129 1
+heart	101 1
+hearts	112 1
+heidi	119 2
+held	128 1,85 1,89 1
+hello	45 1,6 1,10 1,8 1,7 1
+helped	109 2
+helper	130 1
+helpers	130 2
+helps	130 1
+hide	104 1
+hierarchical	129 1
+high	129 1,106 1,117 1,126 1,85 1,89 1,99 1
+higher	90 1
+highest	103 1
+highlight	94 1
+highlights	88 1
+hindi	103 1,89 1
+hindu	95 1,122 1
+hindu�	95 2
+hireahelper	130 1
+historical	103 1
+history	119 1,103 1,130 1
+hit	116 1,124 1,88 1
+hitting	114 1,94 1
+hobby	106 1
+hold	126 1
+holding	132 1,108 1
+holiday	114 1
+home	124 5,106 1,108 1,122 1,130 1
+homelaptops	123 1
+homemobiles	84 1
+hometown	116 1
+honor	125 1
+honour	116 1
+hope	123 1
+hoped	93 1
+hopes	119 1
+hospital	90 3,93 1
+hospitals	90 2
+hossain	88 2
+host	126 1
+hostile	129 1
+hostility	129 1
+hosts	88 1
+hot	87 1,94 1
+hotel	126 1,128 1
+hour	130 1
+hours	114 1,101 1,98 2
+house	106 1,124 1
+howlett	109 1
+http	95 1
+humidity	124 1
+hunting	105 2
+hurt	109 1
+husband	104 1,125 1
+hyundai	86 6,86 1

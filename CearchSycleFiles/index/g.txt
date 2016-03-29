@@ -1,0 +1,87 @@
+gadget	124 1
+gadgets	123 1,130 1,84 1
+gajendra	95 1
+galaxy	84 6
+game	129 2,83 2,88 1
+gamers	129 1,84 1
+games	129 4
+gaming	84 1
+gandhi	120 4,96 1,96 1
+gangster	92 1
+ganguly	99 1
+gardener	93 1
+gardening	93 1
+gardens	103 1
+garnered	102 1
+gate	98 1
+gathered	116 1
+gear	130 1
+gearbox	86 1
+gedit	121 1
+geisel	97 2
+geisel�s	97 1
+gender	129 1
+general	117 1,120 1
+generally	99 1
+generate	164 1
+german	91 1,109 1
+germanwings	91 1
+germany	91 1
+get	167 1,17 1
+gir	105 2
+girl	104 1,122 2,87 1
+girlfriend	115 1
+girls	112 1,119 1
+give	88 1
+giving	100 1,132 1
+glass	126 1
+glasses	93 1
+glorious	115 1
+gluten	83 10
+gmt	114 1
+godsend	83 1
+gold	114 7,132 1,114 1
+golf	130 1
+gonzalez	110 1
+good	125 1,130 1,99 3
+goods	130 1
+google	3 1
+gossip	101 2
+government	128 1,110 1,113 3,117 3,120 3,87 2,89 4,90 3,96 1
+government�s	95 1
+governors	95 2
+grace	119 1
+graft	127 1
+graham	119 2,119 1
+grains	83 1
+grand	116 3,126 1,83 1
+grass	83 1
+grassroots	109 1
+gravity	117 1
+great	99 1
+greater	106 1
+greats	99 1,119 1
+green	167 1
+grey	94 2
+groom	125 1
+grossing	103 1
+ground	110 1
+grounds	128 1
+group	106 1,108 1,110 1,120 1,85 1
+groups	110 1
+growing	85 1
+grown	122 1
+growth	109 1
+gtb	90 1
+guangzhou	82 3
+guardians	106 1
+guards	106 1
+guerrilla	96 1
+guess	102 1
+guessed	84 1
+guilty	128 2,82 1
+gujarat	105 4
+gulf	126 1
+gun	106 1
+gupta	94 1
+gynaecologist	90 1

@@ -1,0 +1,186 @@
+r	32 1
+race	116 1
+racket	89 2
+radcliffe	115 3,115 1
+radhika	92 1,92 3
+radioactive	106 1
+radius	106 1
+rahman	88 1
+rahul	96 3,96 1
+raid	114 1
+rain	116 1
+raise	124 2
+raises	117 2
+raising	109 1
+rajamouli	103 2
+rajinikanth	92 2
+rajiv	120 4
+rajput	104 1
+rampant	82 1
+ramya	103 1
+rana	103 1
+random	85 1
+range	84 1
+ranges	86 1
+ranjit	120 1
+ranjith	92 1
+ranked	88 2
+ranks	89 1
+ranveer	98 1,98 1
+rapid	113 1
+rapping	115 2
+rare	93 1
+rasika	122 2
+rates	130 3
+ray	93 2
+reaches	122 1
+reacting	112 1
+reaction	123 2,100 1
+read	86 1
+readings	124 1
+ready	104 2
+real	115 2,132 3,85 1,132 1
+realised	82 1
+realized	106 1
+reason	105 1,111 1
+reason�	125 1
+rebel	110 1
+rebuild	108 1
+receipts	90 1
+received	106 1,125 1
+recipes	83 1
+recognises	96 1
+recognize	124 1
+reconfiguration	129 1
+reconsider	128 1
+record	126 1,83 1,88 1
+recorded	103 1
+records	85 1,90 1,112 1
+recovery	116 1
+recruitment	89 2
+red	97 1,111 1,167 1
+reddit	127 1
+reddy	94 1
+redesigning	109 1
+reduce	124 1,90 1
+reducing	130 1
+reef	126 1
+reeling	88 1
+refer	83 1
+reference	96 1
+referred	90 1
+refined	83 1
+reflect	125 1
+reflected	124 1
+refused	128 1,113 1
+regime	110 1
+region	105 1
+regular	90 1,94 1
+regulate	124 1
+regulated	113 1
+reinforcing	129 1
+rejected	128 2
+related	106 1,111 1,127 1,83 1,85 3,93 2
+relations	87 1
+release	103 1,85 1
+released	103 1,85 3,89 1,97 1
+relief	90 2
+rely	129 1
+remain	131 1,128 1
+remained	88 1
+remarkable	96 1
+remarkably	124 1
+remember	102 1
+reminder	118 1
+reminds	83 1
+remote	124 9,130 1
+remotely	106 1,124 3
+removal	85 1
+remove	113 1,85 3
+removed	88 1
+renault	86 1
+renewed	96 1
+replaced	82 3
+replacing	82 1,124 1
+report	89 1,101 1,104 1,85 1,86 1,88 1
+reported	82 1,85 1,89 1
+reportedly	106 1,85 1,92 2
+reporters	87 1
+reports	101 3,110 1,85 1
+represent	125 1
+representational	127 1,132 1
+representative	96 1
+request	130 1
+requesting	85 1
+requests	85 1
+researchers	129 4
+reset	124 1
+residence	106 1
+resist	123 1
+resistance	114 1
+resorting	117 1
+respective	90 1
+respond	92 1,122 1
+responded	129 1
+responding	129 1,85 1
+response	117 1,85 1
+responsible	89 1,106 2,85 2
+rest	92 1
+restore	93 1
+result	124 1,131 1,93 1
+results	109 2,129 2
+resuming	88 1
+retain	109 1
+retained	93 1
+retinal	93 2
+retinitis	93 1
+retired	116 1,99 1
+return	128 1,124 1
+returned	118 1,122 1
+returning	97 1
+reuters	132 1
+revamp	109 1
+revamping	94 1
+revealed	119 1,107 1
+revenue	109 1
+reverse	11 1
+review	123 1
+reviewed	88 1
+reviews	103 1,123 1,130 1,84 1
+revocation	117 1
+revoked	117 2
+rewriting	125 1
+rich	96 1
+riders	131 1
+riley	102 1
+ring	89 1
+ripped	108 1
+rise	109 1,114 1
+risen	105 1
+rising	124 1
+rival	86 1
+robin	84 1
+robotics	106 1
+rock	128 1,82 1,103 1
+rocking	94 1
+role	92 1,104 1,128 1
+roles	103 2
+rolled	86 1
+rollout	84 1
+roof	106 1,126 1
+rooftop	126 1
+room	124 1
+roommates	124 1
+row	112 1
+royal	106 2,93 1
+rs	86 2,90 3,84 2
+rss	95 2
+rubbishing	104 1
+rubina	128 1
+ruling	87 1
+rumors	101 3
+rumoured	98 1
+rumours	104 1
+run	128 1,130 1,87 1,88 1
+runs	130 1,88 1
+rush	90 1
