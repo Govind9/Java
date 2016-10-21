@@ -403,7 +403,12 @@ static class CearchSycle
 		String y=x;
 		for(int i=0;i<y.length();i++)
 		{
-			if(y.charAt(i)=='.'||y.charAt(i)==','||y.charAt(i)=='?'||y.charAt(i)=='!'||y.charAt(i)=='-'||y.charAt(i)=='('||y.charAt(i)==')'||y.charAt(i)=='#'||y.charAt(i)=='"'||y.charAt(i)=='\''||y.charAt(i)==':'||y.charAt(i)==';'||y.charAt(i)=='~'||y.charAt(i)=='`'||y.charAt(i)=='@'||y.charAt(i)=='$'||y.charAt(i)=='%'||y.charAt(i)=='%'||y.charAt(i)=='^'||y.charAt(i)=='/'||y.charAt(i)=='*'||y.charAt(i)=='['||y.charAt(i)==']'||y.charAt(i)=='{'||y.charAt(i)=='}'||y.charAt(i)=='_'||y.charAt(i)=='+'||y.charAt(i)=='='||y.charAt(i)=='|')
+			if(y.charAt(i)=='.'||y.charAt(i)==','||y.charAt(i)=='?'||y.charAt(i)=='!'||y.charAt(i)=='-'
+			||y.charAt(i)=='('||y.charAt(i)==')'||y.charAt(i)=='#'||y.charAt(i)=='"'||y.charAt(i)=='\''
+			||y.charAt(i)==':'||y.charAt(i)==';'||y.charAt(i)=='~'||y.charAt(i)=='`'||y.charAt(i)=='@'
+			||y.charAt(i)=='$'||y.charAt(i)=='%'||y.charAt(i)=='%'||y.charAt(i)=='^'||y.charAt(i)=='/'
+			||y.charAt(i)=='*'||y.charAt(i)=='['||y.charAt(i)==']'||y.charAt(i)=='{'||y.charAt(i)=='}'
+			||y.charAt(i)=='_'||y.charAt(i)=='+'||y.charAt(i)=='='||y.charAt(i)=='|')
 				
 			{
 				if(i==0)
